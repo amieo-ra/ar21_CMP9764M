@@ -1,4 +1,12 @@
 # Advanced Robotics (AR) -- University of Lincoln 
+## Navigate to these locations for installation:
+### Melodic:
+http://docs.ros.org/en/melodic/api/moveit_tutorials/html/doc/getting_started/getting_started.html
+
+### Kinetic:
+http://docs.ros.org/en/kinetic/api/moveit_tutorials/html/doc/getting_started/getting_started.html
+
+
 This repo includes the workshop material for AR module, Week 1-4. 
 The topics include: 
 ** Week 1: Introduction to Robotic Grasping and Manipulation;
